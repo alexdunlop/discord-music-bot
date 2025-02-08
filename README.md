@@ -5,5 +5,5 @@ play (query/URL), stop, skip, pause, resume, queue, nowplaying, shuffle, help
 ## known issues
 There is a popping sound during audio playback
 ## setup
-.env file needs to be populated with values for the Discord token and Youtube cookie
-Create environment and ensure node and associated packages are installed 
+- .env file needs to be populated with values for the Discord token and Youtube cookie
+- Create environment and ensure node and associated packages are installed 
